@@ -1,0 +1,1 @@
+final ADMOB_KEY = "Paste your admob key here";
